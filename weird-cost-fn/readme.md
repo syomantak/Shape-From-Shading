@@ -1,1 +1,1 @@
-This is shape from shading but using a random cost function.
+This is shape from shading but using an unconventional cost function.
